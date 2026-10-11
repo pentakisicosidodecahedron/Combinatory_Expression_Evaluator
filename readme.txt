@@ -13,7 +13,7 @@ evaluator.
 
 Enter a valid combinatory expression in the top text prompt. The
 allowed combinators include S, K, I, B, W, and C. For intended
-functionality pleace use exclusively these symbols, lowercase
+functionality please use exclusively these symbols, lowercase
 letters for variables, and parentheses. OMIT ALL WHITESPACE.
 
 ## Example Expressions to Try:
